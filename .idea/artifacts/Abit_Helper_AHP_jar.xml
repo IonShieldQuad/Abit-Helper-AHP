@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Abit-Helper-AHP:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Abit_Helper_AHP_jar</output-path>
+    <root id="archive" name="Abit-Helper-AHP.jar">
+      <element id="module-output" name="Abit-Helper-AHP" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/bulenkov/darcula/2018.2/darcula-2018.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/16.0.1/annotations-16.0.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,8 @@
+Interests_Opportunities 2
+Interests_Ease 0.5
+Opportunities_Ease 0.333
+Program_University 7
+Salary_Demand 1
+Numbers_Score 0.2
+Student_Score 200
+Min_Salary 50000
